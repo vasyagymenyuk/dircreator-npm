@@ -1,6 +1,6 @@
 {
   "name": "dircreator",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Creates new directories",
   "main": "index.js",
   "scripts": {
